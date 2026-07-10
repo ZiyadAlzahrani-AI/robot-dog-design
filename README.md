@@ -44,3 +44,5 @@ Each leg has:
 ## Conclusion
 
 This project demonstrates a simple initial mechanical design for a quadruped robot dog with basic joints.
+
+![Robot Dog Design](isometric-view.png)
